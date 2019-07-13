@@ -1,2 +1,2 @@
 # ML-AI-Journey
-A set of Jupiter notebooks that are developed as part my ML learning experience. I have included data that used to solve the problems 
+A set of Jupiter notebooks that are developed as part my ML learning experience. I have included the data that is used to solve different problems using different algorithms. 
